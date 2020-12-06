@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b5547e631f9a8e482dc1917568a92b20",
+    "content-hash": "f7ed7c00b4bac0089d2983a5e2d7bab6",
     "packages": [
         {
             "name": "amphp/amp",
@@ -1046,7 +1046,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com:22/forks-updates/proxy-manager.git",
-                "reference": "961878405ccda40f1217d48b5f32e3575fe35d2b"
+                "reference": "506e41b2a2991788ef5e1ed57cc3d751475fdff6"
             },
             "require": {
                 "codelicia/xulieta": "^0.1.5",
@@ -1080,11 +1080,6 @@
             },
             "default-branch": true,
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.0.x-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "ProxyManager\\": "src/ProxyManager"
@@ -1117,7 +1112,7 @@
                 "proxy pattern",
                 "service proxies"
             ],
-            "time": "2020-12-06T13:14:09+00:00"
+            "time": "2020-12-06T13:50:31+00:00"
         },
         {
             "name": "infection/abstract-testframework-adapter",
