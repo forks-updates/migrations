@@ -1,6 +1,5 @@
 {
     "name": "forks-updates/migrations",
-    "version": "3.0.x-dev",
     "type": "library",
     "description": "PHP Doctrine Migrations project offer additional functionality on top of the database abstraction layer (DBAL) for versioning your database schema and easily deploying changes to it. It is a very easy to use and a powerful tool.",
     "keywords": [
@@ -64,9 +63,6 @@
         "sort-packages": true
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        },
         "composer-normalize": {
             "indent-size": 4,
             "indent-style": "space"
